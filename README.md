@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zauzaud
 - 👀 I’m interested in Games, Cloud Computing and Programming. 
-- 🌱 I’m currently learning Java, SQL, JavaScript, HTML/CSS, Python and R. 
+- 🌱 I’m currently learning Java, SQL, JavaScript, HTML/CSS, Python and React. 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me: gabriel.zaude@acad.espm.br
 
