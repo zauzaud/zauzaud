@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @zauzaud
-- 👀 I’m interested in Games, Cloud Computing and Programming. 
-- 🌱 I’m currently learning Java, SQL, JavaScript, HTML/CSS, Python and React. 
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me: gabriel.zaude@acad.espm.br
+Hi! I'm Gabriel. 
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zauzaud&layout=compact)
 
 <!---
 zauzaud/zauzaud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
